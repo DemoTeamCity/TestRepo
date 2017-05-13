@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace TlxSlxWebTests.DTOs
 {
+    //
     public class TimeDTO
     {
         public string Location { get; set; }
